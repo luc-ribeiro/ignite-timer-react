@@ -1,10 +1,14 @@
 <div align="center">
-  <img height="60" src="./src/assets/logo-ignite.svg"  />
+  <img height="60" src="./src/assets/logo-ignite.svg" />
 </div>
 
 <h1 align="center">
-Ignite Timer 
+Ignite Timer
 </h1>
+
+<div align="right">
+    Clique <a href="https://github.com/luc-ribeiro/ignite-timer-react/blob/main/README-PTBR.md">aqui</a> para ver a versão em Português.
+</div>
 
 <h2 align="center">Preview: <a href="https://ignite-timer-react-gold.vercel.app" target="_blank">Ignite Timer</a> </h2>
 
@@ -14,11 +18,11 @@ Ignite Timer
   <img alt="img" title="ignite-feed" src="./src/assets/preview.png" width="100%" />
 </div>
 
-## 📄 Projeto
-Projeto que permite ao usuário cronometrar as suas tarefas no dia a dia, além de permitir ver um histórico de todas as tarefas já realizadas.
-Aplicação de conceitos como roteamento, ContextAPI, useReducer, Controlled e Uncontrolled Inputs.
+## 📄 Project
+Project that allows users to time their daily tasks and view a history of all completed tasks.
+Application of concepts such as routing, ContextAPI, useReducer, Controlled and Uncontrolled Inputs.
 
-## 💻 Tecnologias
+## 💻 Technologies
 
 - **ReactJS**
 - **TypeScript**
@@ -32,22 +36,22 @@ Aplicação de conceitos como roteamento, ContextAPI, useReducer, Controlled e U
 ## 🔖 Layout
 - [Ignite Timer - Figma](https://www.figma.com/file/1elaE6IkmHfD6OZ9GtW6jf/Ignite-Timer?type=design&node-id=2-12&mode=design)
 
-## 🚀 Executando o projeto
+## 🚀 Running the project
 
-- Clone o projeto e acesse o diretório
+- Clone the project and access the directory
 
 ```bash
 $ git clone https://github.com/luc-ribeiro/ignite-timer-react.git
-$ cd 
+$ cd ignite-timer-react
 ```
 
-- Siga os passos abaixo:
+- Follow the steps below:
 ```bash
-# Instale as dependências
+# Install the dependencies
 $ npm i
 
-# Inicie o projeto
+# Start the project
 $ npm run dev
 ```
 
-- A aplicação estará disponível no endereço `http://localhost:5174`
+- The application will be available at `http://localhost:5174`
